@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 1417.7 862.3" version="1.1">
+  <defs id="defs4">
+    <linearGradient id="linearGradient5405" y2="25.425" gradientUnits="userSpaceOnUse" x2="382.84" gradientTransform="matrix(1 0 0 .87726 505.85 -262.15)" y1="25.425" x1="372.84">
+      <stop id="stop3795" stop-color="#a7a700" offset="0"/>
+      <stop id="stop3801" stop-color="#ffffc1" stop-opacity=".81679" offset=".5"/>
+      <stop id="stop3797" stop-color="#848400" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient5407" y2="873.44" gradientUnits="userSpaceOnUse" x2="401.69" gradientTransform="translate(505.85 -379.04)" y1="873.44" x1="352.62">
+      <stop id="stop3779" stop-color="#8c8c8c" offset="0"/>
+      <stop id="stop3789" stop-color="#ccc" offset=".44514"/>
+      <stop id="stop3785" stop-color="#4c4c4c" offset=".63009"/>
+      <stop id="stop3787" stop-color="#e8e8e8" offset=".83673"/>
+      <stop id="stop3781" stop-color="#7f7f7f" offset="1"/>
+    </linearGradient>
+    <radialGradient id="radialGradient5409" gradientUnits="userSpaceOnUse" cy="-39.721" cx="377.84" gradientTransform="matrix(2.2386 1.9948e-7 -.0000036830 37.274 37.837 1061.8)" r="75">
+      <stop id="stop3771" stop-color="#fff" stop-opacity="0" offset="0"/>
+      <stop id="stop3773" offset="1"/>
+    </radialGradient>
+    <linearGradient id="linearGradient5419" y2="376.26" gradientUnits="userSpaceOnUse" x2="1155.2" gradientTransform="translate(288.84 -870.1)" y1="193.7" x1="1074.4">
+      <stop id="stop5415" stop-color="#fff" offset="0"/>
+      <stop id="stop5417" stop-color="#fff" stop-opacity="0" offset="1"/>
+    </linearGradient>
+    <filter id="filter5421" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur5423" stdDeviation="1.6610813"/>
+    </filter>
+  </defs>
+  <g id="layer1" transform="translate(-177.53 667.13)">
+    <g id="g5291" transform="matrix(.5 .86603 -.86603 .5 247.65 -877.42)">
+      <g id="g5012" transform="translate(505.85 -345.04)">
+        <g id="g5179" transform="matrix(0 -1 1 0 -1259.7 702.3)">
+          <rect id="rect3803" transform="rotate(90)" height="1219.6" width="100" stroke="#000" y="-1292.2" x="1587.6" stroke-width=".95441" fill="#fff"/>
+          <path id="path5004" stroke-linejoin="round" d="m258.52 1597.1v80.851" stroke="#000" stroke-linecap="round" stroke-width="3.8522" fill="none"/>
+          <path id="path5002" stroke-linejoin="round" d="m384.93 1597.1v80.851" stroke="#000" stroke-linecap="round" stroke-width="3.8522" fill="none"/>
+          <path id="path5000" stroke-linejoin="round" d="m511.33 1597.1v80.851" stroke="#000" stroke-linecap="round" stroke-width="3.8522"/>
+          <path id="path4998" stroke-linejoin="round" d="m637.73 1597.1v80.851" stroke="#000" stroke-linecap="round" stroke-width="3.8522" fill="none"/>
+          <path id="path4996" stroke-linejoin="round" d="m764.14 1597.1v80.851" stroke="#000" stroke-linecap="round" stroke-width="3.8522" fill="none"/>
+          <path id="path4994" stroke-linejoin="round" d="m890.54 1597.1v80.851" stroke="#000" stroke-linecap="round" stroke-width="3.8522" fill="none"/>
+          <path id="path4992" stroke-linejoin="round" d="m1016.9 1597.1v80.851" stroke="#000" stroke-linecap="round" stroke-width="3.8522" fill="none"/>
+          <path id="path4990" stroke-linejoin="round" d="m1143.3 1597.1v80.851" stroke="#000" stroke-linecap="round" stroke-width="3.8522" fill="none"/>
+          <path id="path4970" stroke-linejoin="round" d="m271.07 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4968" stroke-linejoin="round" d="m397.47 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4966" stroke-linejoin="round" d="m523.87 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4964" stroke-linejoin="round" d="m650.28 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4962" stroke-linejoin="round" d="m776.68 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4960" stroke-linejoin="round" d="m903.08 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4958" stroke-linejoin="round" d="m1029.5 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4956" stroke-linejoin="round" d="m1155.9 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4938" stroke-linejoin="round" d="m157.21 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4936" stroke-linejoin="round" d="m283.61 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4934" stroke-linejoin="round" d="m410.02 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4932" stroke-linejoin="round" d="m536.42 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4930" stroke-linejoin="round" d="m662.82 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4928" stroke-linejoin="round" d="m789.23 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4926" stroke-linejoin="round" d="m915.63 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4924" stroke-linejoin="round" d="m1042 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4922" stroke-linejoin="round" d="m1168.4 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4904" stroke-linejoin="round" d="m169.75 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4902" stroke-linejoin="round" d="m296.16 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4900" stroke-linejoin="round" d="m422.56 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4898" stroke-linejoin="round" d="m548.96 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4896" stroke-linejoin="round" d="m675.37 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4894" stroke-linejoin="round" d="m801.77 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4892" stroke-linejoin="round" d="m928.17 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4890" stroke-linejoin="round" d="m1054.6 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4888" stroke-linejoin="round" d="m1181 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4870" stroke-linejoin="round" d="m182.3 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4868" stroke-linejoin="round" d="m308.7 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4866" stroke-linejoin="round" d="m435.11 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4864" stroke-linejoin="round" d="m561.51 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4862" stroke-linejoin="round" d="m687.91 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4860" stroke-linejoin="round" d="m814.32 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4858" stroke-linejoin="round" d="m940.72 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4856" stroke-linejoin="round" d="m1067.1 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4854" stroke-linejoin="round" d="m1193.5 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4836" stroke-linejoin="round" d="m194.84 1618v39.133" stroke="#000" stroke-linecap="round" stroke-width="2.68" fill="none"/>
+          <path id="path4834" stroke-linejoin="round" d="m321.25 1618v39.133" stroke="#000" stroke-linecap="round" stroke-width="2.68" fill="none"/>
+          <path id="path4832" stroke-linejoin="round" d="m447.65 1618v39.133" stroke="#000" stroke-linecap="round" stroke-width="2.68" fill="none"/>
+          <path id="path4830" stroke-linejoin="round" d="m574.05 1618v39.133" stroke="#000" stroke-linecap="round" stroke-width="2.68" fill="none"/>
+          <path id="path4828" stroke-linejoin="round" d="m700.46 1618v39.133" stroke="#000" stroke-linecap="round" stroke-width="2.68" fill="none"/>
+          <path id="path4826" stroke-linejoin="round" d="m826.86 1618v39.133" stroke="#000" stroke-linecap="round" stroke-width="2.68" fill="none"/>
+          <path id="path4824" stroke-linejoin="round" d="m953.26 1618v39.133" stroke="#000" stroke-linecap="round" stroke-width="2.68" fill="none"/>
+          <path id="path4822" stroke-linejoin="round" d="m1079.7 1618v39.133" stroke="#000" stroke-linecap="round" stroke-width="2.68" fill="none"/>
+          <path id="path4820" stroke-linejoin="round" d="m1206.1 1618v39.133" stroke="#000" stroke-linecap="round" stroke-width="2.68" fill="none"/>
+          <path id="path4802" stroke-linejoin="round" d="m207.39 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4800" stroke-linejoin="round" d="m333.79 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4798" stroke-linejoin="round" d="m460.2 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4796" stroke-linejoin="round" d="m586.6 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4794" stroke-linejoin="round" d="m713 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4792" stroke-linejoin="round" d="m839.41 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4790" stroke-linejoin="round" d="m965.81 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4788" stroke-linejoin="round" d="m1092.2 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4786" stroke-linejoin="round" d="m1218.6 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4768" stroke-linejoin="round" d="m219.93 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4766" stroke-linejoin="round" d="m346.34 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4764" stroke-linejoin="round" d="m472.74 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4762" stroke-linejoin="round" d="m599.14 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4760" stroke-linejoin="round" d="m725.55 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4758" stroke-linejoin="round" d="m851.95 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4756" stroke-linejoin="round" d="m978.35 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4754" stroke-linejoin="round" d="m1104.8 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4752" stroke-linejoin="round" d="m1231.2 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4734" stroke-linejoin="round" d="m232.48 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4732" stroke-linejoin="round" d="m358.88 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4730" stroke-linejoin="round" d="m485.29 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4728" stroke-linejoin="round" d="m611.69 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4726" stroke-linejoin="round" d="m738.09 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4724" stroke-linejoin="round" d="m864.5 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4722" stroke-linejoin="round" d="m990.9 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4720" stroke-linejoin="round" d="m1117.3 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4718" stroke-linejoin="round" d="m1243.7 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4700" stroke-linejoin="round" d="m245.02 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4698" stroke-linejoin="round" d="m371.43 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4696" stroke-linejoin="round" d="m497.83 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4694" stroke-linejoin="round" d="m624.23 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4692" stroke-linejoin="round" d="m750.64 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4690" stroke-linejoin="round" d="m877.04 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4688" stroke-linejoin="round" d="m1003.4 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <path id="path4686" stroke-linejoin="round" d="m1129.8 1624.9v25.25" stroke="#000" stroke-linecap="round" stroke-width="2.1527" fill="none"/>
+          <text id="text5143" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="scale(1.2999 .76927)" line-height="125%" font-size="35.61px" y="2185.0227" x="170.73994" font-family="Sans" fill="#000000">
+            <tspan id="tspan5145" y="2185.0227" x="170.73994">3 5</tspan>
+          </text>
+          <text id="text5147" style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" font-size="35.61px" transform="scale(1.2999 .76927)" y="2185.0227" x="365.18192" font-family="Sans" fill="#ff0000">
+            <tspan id="tspan5149" y="2185.0227" x="365.18192">3 7</tspan>
+          </text>
+          <text id="text5151" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="scale(1.2999 .76927)" line-height="125%" font-size="35.61px" y="2185.0227" x="559.3891" font-family="Sans" fill="#000000">
+            <tspan id="tspan5153" y="2185.0227" x="559.3891">3 9</tspan>
+          </text>
+          <text id="text5155" style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" font-size="35.61px" transform="scale(1.2999 .76927)" y="2185.0227" x="754.74396" font-family="Sans" fill="#000000">
+            <tspan id="tspan5157" y="2185.0227" x="754.74396">4 1</tspan>
+          </text>
+          <text id="text5159" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="scale(1.2999 .76927)" line-height="125%" font-size="35.61px" y="2097.6777" x="852.12146" font-family="Sans" fill="#000000">
+            <tspan id="tspan5161" y="2097.6777" x="852.12146">4 2</tspan>
+          </text>
+          <text id="text5163" style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" font-size="35.61px" transform="scale(1.2999 .76927)" y="2097.6777" x="656.93176" font-family="Sans" fill="#000000">
+            <tspan id="tspan5165" y="2097.6777" x="656.93176">4 0</tspan>
+          </text>
+          <text id="text5167" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="scale(1.2999 .76927)" line-height="125%" font-size="35.61px" y="2097.6777" x="462.11597" font-family="Sans" fill="#000000">
+            <tspan id="tspan5169" y="2097.6777" x="462.11597">3 8</tspan>
+          </text>
+          <text id="text5171" style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" font-size="35.61px" transform="scale(1.2999 .76927)" y="2097.6777" x="267.9783" font-family="Sans" fill="#000000">
+            <tspan id="tspan5173" y="2097.6777" x="267.9783">3 6</tspan>
+            <tspan id="tspan5175" y="2142.1907" x="267.9783"/>
+          </text>
+          <path id="path5177" stroke-linejoin="round" d="m508.44 1606.3a4.7616 4.7616 0 1 1 -9.5233 0 4.7616 4.7616 0 1 1 9.5233 0z" transform="translate(7.6547)" stroke="#f00" stroke-linecap="round" stroke-width="3" fill="#f00"/>
+        </g>
+      </g>
+      <rect id="rect3791" rx="5" ry="4.6072" height="1369" width="10" y="-924.35" x="878.69" fill="url(#linearGradient5405)"/>
+      <path id="path5287" d="m883.69-98.246v516.37" stroke="#999" stroke-width="4" fill="#ececec"/>
+      <path id="path3767" d="m907.54 407.62-49.062-0.00001 0.00001 149.03c-0.00001 13.597 10.935 24.531 24.531 24.531 13.597 0 24.531-10.935 24.531-24.531v-149.03z" fill="url(#linearGradient5407)"/>
+      <path id="rect3756" d="m883.69-1029.7c-41.55 0.0001-75 37.91-75 85l-0.00003 1198c0 54.323 27.565 61.895 49.781 86.438v67.844l49.062 0.00001v-67.844c22.779-24.543 51.156-34.989 51.156-86.438l0.00004-1198c0-47.09-33.45-85-75-85z" fill="url(#radialGradient5409)"/>
+    </g>
+    <path id="path5411" filter="url(#filter5421)" fill="url(#linearGradient5419)" d="m1090.9-426.49 377.1-215.49c31.75-16.2 46.511-6.9158 62.85 0z"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Thermometer</dc:title>
+        <dc:date>2011-02-25T17:49:17</dc:date>
+        <dc:description>Russian thermometer</dc:description>
+        <dc:source>http://openclipart.org/detail/122617/thermometer-by-truecryer</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>TrueCryer</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clinic</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>health</rdf:li>
+            <rdf:li>medicine</rdf:li>
+            <rdf:li>meter</rdf:li>
+            <rdf:li>temperature</rdf:li>
+            <rdf:li>thermometer</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
